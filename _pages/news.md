@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-  
+
 Papers Under Submission
 ======
 * I have 3 papers under submission for ICRA 2023
