@@ -15,7 +15,7 @@ Education
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Reviews
+Review experience
 ======
 * 2023 ICRA (2)
 * 2022 IROS (1)
@@ -27,10 +27,25 @@ Teaching experience
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-2021: Teaching Assistant
+  * Computer Science, University of Maryland, College Park
+  * I was the only TA in the course. The tasks includes:
+    * Give one lecture about mapping algorithms
+    * Prepare lecture materials, exams and homeworks
+    * Grading
+
+* 2020-2021: Advanced Engineer
+  * Watermirror Inc, Shenzhen China
+  * Accomplished:
+    * mapping and positioning modules: LeGO-LOAM, ROS-Cartographer and ROS-amcl, NDT based positioning algorithm;
+    * multiple path and motion planning modules: A, RRT, reinforcement learning motion planning modules, and etc;
+    * control modules: MPC and PID;
+
+* 2016-2017: Engineer
+  * CleverSys Inc, Reston VA
+  * Design equipments for research of animal behavior analysis. My work includes:
+    * Embedded system development;
+    * software and hardware design;
 
 Publications
 ======
