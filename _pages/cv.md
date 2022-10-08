@@ -10,3 +10,6 @@ redirect_from:
 {% include base_path %}
 
 <!-- <embed src="/files/jingCV.pdf" width="800px" height="2100px" /> -->
+<ul>
+  {% include archive-cv.html %}
+</ul>
