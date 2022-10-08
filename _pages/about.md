@@ -11,9 +11,10 @@ I’m a PhD student in the University of Maryland(UMD), College Park. I’m work
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, University of Maryland, College Park, 2024 (expected)
+* M.E. in Robotics, University of Maryland, College Park, 2020
+* M.S. in Electrical Engineering, The George Washington University, Washington, DC, 2016
+* B.S. in Electrical Engineering & Automation, China University of Geosciences, Beijing, China, 2014
 
 Review experience
 ======
