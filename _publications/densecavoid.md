@@ -6,7 +6,7 @@ excerpt:
 date: 2020-09-12
 venue: 'Journal 1'
 paperurl: 'https://ieeexplore.ieee.org/document/9197379'
-citation: 'Sathyamoorthy, A.J.*, Liang, J.*, Patel, U., Guan, T., Chandra, R. and Manocha, D., 2020, May. Densecavoid: Real-time navigation in dense crowds using anticipatory behaviors. In 2020 IEEE International Conference on Robotics and Automation (ICRA) (pp. 11345-11352). IEEE.'
+citation: 'Liang, J.*, Sathyamoorthy, A.J.*, Patel, U., Guan, T., Chandra, R. and Manocha, D., 2020, May. Densecavoid: Real-time navigation in dense crowds using anticipatory behaviors. In 2020 IEEE International Conference on Robotics and Automation (ICRA) (pp. 11345-11352). IEEE.'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
