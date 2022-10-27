@@ -18,9 +18,9 @@ Education
 
 Review experience
 ======
-* 2023 ICRA (2)
-* 2022 IROS (1)
-* 2022 RA-L (2)
+* 2023 ICRA: 2 papers
+* 2022 IROS: 1 paper
+* 2022 RA-L: 2 papers
 
 Teaching experience
 ======
