@@ -5,4 +5,4 @@ type: "News"
 permalink: /news/review
 ---
 
-### In 2022 I've reviewd 3 papers from RA-L and 1 paper from IROS
+### In 20222-2023 I've reviewed 6 papers from RA-L, 2 papers from ICRA and 1 paper from IROS
