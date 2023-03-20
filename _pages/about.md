@@ -13,8 +13,6 @@ Education
 ======
 * Ph.D in Computer Science, University of Maryland, College Park, 2024 (expected)
 * M.E. in Robotics, University of Maryland, College Park, 2020
-<!-- * M.S. in Electrical Engineering, The George Washington University, Washington, DC, 2016
-* B.S. in Electrical Engineering & Automation, China University of Geosciences, Beijing, China, 2014 -->
 
 Review experience
 ======
