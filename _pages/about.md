@@ -16,9 +16,9 @@ Education
 
 Review experience
 ======
-* 2022-2023 ICRA: 6 papers
-* 2022 IROS: 1 paper
-* 2022 RA-L: 2 papers
+* 2023 ICRA: 2 papers 
+* 2022-2023 IROS: 4 papers
+* 2022-2023 RA-L: 8 papers
 
 Teaching experience
 ======
