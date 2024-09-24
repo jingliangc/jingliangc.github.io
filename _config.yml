@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jing Liang"
   avatar           : "profile.JPG"
-  bio              : "Robotics, Navigation, Mapping"
+  bio              : "Robotics, Navigation, Perception"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AxPEeM0AAAAJ&hl=en&oi=ao"
-  email            : "jingl@umd.edu"
+  email            : "liangjingjerry@gmail.com" # "jingl@umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -14,15 +14,16 @@ Education
 * Ph.D in Computer Science, University of Maryland, College Park, 2024 (expected)
 * M.E. in Robotics, University of Maryland, College Park, 2020
 
-Review experience
-======
-* 2023 ICRA: 2 papers 
-* 2022-2023 IROS: 4 papers
-* 2022-2023 RA-L: 8 papers
-
 Teaching experience
 ======
 * 2021 CMSC756 Robotics
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 
 Work experience
 ======
@@ -40,15 +41,8 @@ Work experience
     * multiple path and motion planning modules: A, RRT, reinforcement learning motion planning modules, and etc;
     * control modules: MPC and PID;
 
-* 2016-2017: Engineer
+<!-- * 2016-2017: Engineer
   * CleverSys Inc, Reston VA
   * Design equipments for research of animal behavior analysis. My work includes:
     * Embedded system development;
-    * software and hardware design;
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
+    * software and hardware design; -->
