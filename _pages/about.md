@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a PhD student in the University of Maryland(UMD), College Park. I’m working in the [GAMMA lab](https://gamma.umd.edu) and supervised by Dr. [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha). My focusing area is robotics and I'm interested in Navigation and Mapping.
+I’m a PhD student at the University of Maryland(UMD), College Park. I’m working in the [GAMMA lab](https://gamma.umd.edu) and advised by Dr. [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha). My focusing area is robotics and I'm interested in Navigation and Perception.
 
 Education
 ======
