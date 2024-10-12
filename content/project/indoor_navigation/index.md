@@ -1,13 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Indoor Navigation
+date: 2024-10-12
+external_link: https://jingliangc.github.io/indoor_navigation/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Projects
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Indoor Navigation solves the problem of moving robots in indoor scenarios. It includes indoor collision avoidance and indoor social navigation.
 
 <!--more-->

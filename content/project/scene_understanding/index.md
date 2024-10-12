@@ -1,13 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Scene Understanding
+date: 2024-10-12
+external_link: https://jingliangc.github.io/scene_understanding/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Projects
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-
+Scene understanding analysis the environment from robots' observations and extract important information for down-stream tasks.
 <!--more-->
+

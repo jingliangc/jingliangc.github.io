@@ -1,13 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Outdoor Navigation
+date: 2024-10-12
+external_link: https://jingliangc.github.io/outdoor_navigation/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Projects
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Outdoor Navigation solves the problem of moving robots in outdoor scenarios with complex terrains and traffic conditions. It includes outdoor trajectory generation and outdoor social navigation.
 
 <!--more-->

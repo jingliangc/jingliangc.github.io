@@ -1,13 +1,12 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Place Recognition
+date: 2024-10-12
+external_link: https://jingliangc.github.io/place_recognition/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Projects
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Place recognition localize the robot in a global map given current observations. This task includes place recognition in indoor and outdoor scenarios with various sensors.
 
 <!--more-->
+

@@ -4,7 +4,7 @@ cms_exclude: false
 
 # View.
 view: article-grid
-columns: 3
+columns: 2
 
 design:
   spacing: '1rem'
