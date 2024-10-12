@@ -5,19 +5,20 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '5rem'
+  spacing: '1rem'
 
 # Page sections
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Projects
+      text: My focusing area is robotics and I’m interested in Navigation and Perception.
       filters:
         folders:
           - project
+        # featured_only: true
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 2
 ---
