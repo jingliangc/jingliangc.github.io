@@ -12,4 +12,5 @@ sections:
       count: 100
       folders:
         - scene_understanding
+      exclude_featured: false
 ---

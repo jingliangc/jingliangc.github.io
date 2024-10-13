@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2024-10-11
+date: 2025-10-11
 type: landing
 
 design:
@@ -33,6 +33,7 @@ sections:
   - block: collection
     id: project
     content:
+      count: 5
       title: Projects
       filters:
         folders:
@@ -49,9 +50,27 @@ sections:
         - We have 3 paper accepted in IROS 2024.
         - I'm going to give a presentation in the University of North Carolina in Nov 2024.
   - block: collection
+    # id: preprints
+    content:
+      count: 10
+      title: Papers Under Submission
+      text: ""
+      filters:
+        folders:
+          - indoor_navigation
+          - outdoor_navigation
+          - place_recognition
+          - scene_understanding
+          - datasets
+        exclude_future: false
+        exclude_featured: true
+        sort_by: 'Date'
+    design:
+      view: card
+  - block: collection
     id: papers
     content:
-      count: 500
+      count: 100
       title: Publications
       text: ""
       filters:
@@ -61,7 +80,9 @@ sections:
           - place_recognition
           - scene_understanding
           - datasets
-        exclude_featured: true
+        exclude_future: false
+        # exclude_featured: false
+        featured_only: true
         sort_by: 'Date'
     design:
       view: citation

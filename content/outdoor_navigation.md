@@ -12,4 +12,5 @@ sections:
       count: 100
       folders:
         - outdoor_navigation
+      exclude_featured: false
 ---

@@ -13,6 +13,9 @@ main:
   - name: Projects
     url: projects/
     weight: 12
+  # - name: Submissions
+  #   url: /#preprints
+  #   weight: 14
   - name: Papers
     url: /#papers
     weight: 15

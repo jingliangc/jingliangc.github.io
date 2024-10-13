@@ -12,4 +12,5 @@ sections:
       count: 100
       folders:
         - place_recognition
+      exclude_featured: false
 ---

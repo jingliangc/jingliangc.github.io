@@ -44,7 +44,7 @@ tags:
   - PCA
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
