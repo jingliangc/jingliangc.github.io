@@ -13,11 +13,12 @@ sections:
     content:
       title: Projects
       text: My focusing area is robotics and I’m interested in Navigation and Perception.
+      count: 10
       filters:
         folders:
           - project
         # featured_only: false
-        # exclude_featured: false
+        exclude_featured: false
     design:
       view: article-grid
       fill_image: false

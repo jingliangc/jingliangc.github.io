@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Language Models | Jing Liang</title>
+    <link>http://localhost:1313/tags/language-models/</link>
+      <atom:link href="http://localhost:1313/tags/language-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Language Models</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu11208008469998047310.png</url>
+      <title>Language Models</title>
+      <link>http://localhost:1313/tags/language-models/</link>
+    </image>
+    
+    <item>
+      <title>BehAV: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes</title>
+      <link>http://localhost:1313/language_model/behav/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/language_model/behav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the safety concerns of deploying llms/vlms in robotics: Highlighting the risks and vulnerabilities</title>
+      <link>http://localhost:1313/language_model/safety_robotics/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/language_model/safety_robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TGS: Trajectory Generation and Selection using Vision Language Models in Mapless Outdoor Environments</title>
+      <link>http://localhost:1313/language_model/tgs/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/language_model/tgs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VLM-Social-Nav: Socially Aware Robot Navigation through Scoring using Vision-Language Models</title>
+      <link>http://localhost:1313/language_model/social_vlm/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/language_model/social_vlm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
