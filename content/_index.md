@@ -51,6 +51,7 @@ sections:
   - block: collection
     id: papers
     content:
+      count: 500
       title: Publications
       text: ""
       filters:

@@ -9,6 +9,7 @@ design:
 sections:
   - block: collection
     content:
+      count: 100
       folders:
         - outdoor_navigation
 ---
