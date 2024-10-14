@@ -48,7 +48,7 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
-        - We have 3 paper accepted in IROS 2024.
+        - We have 3 papers accepted by IROS 2024.
         - I'm going to give a presentation in the University of North Carolina in Nov 2024.
         
   - block: collection
