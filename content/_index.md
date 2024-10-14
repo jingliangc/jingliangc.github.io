@@ -84,7 +84,7 @@ sections:
           - place_recognition
           - scene_understanding
           - datasets
-          # - language_model
+          - language_model
         exclude_future: false
         # exclude_featured: false
         featured_only: true
