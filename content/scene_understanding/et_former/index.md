@@ -42,7 +42,7 @@ featured: false
 #   url: https://robotixx.github.io/GND/
 #   icon_pack: fab
 #   icon: twitter
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2410.11019"
 url_code: ''
 url_dataset: ''
 url_poster: ''
