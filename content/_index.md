@@ -49,7 +49,7 @@ sections:
       subtitle: ''
       text: |-
         - We have 3 papers accepted by IROS 2024.
-        - I'm going to give a presentation in the University of North Carolina in Nov 2024.
+        - I'm going to give a presentation in the North Carolina State University in Nov 2024.
         
   - block: collection
     id: preprints

@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Projects
-      text: My focusing area is robotics and I’m interested in Navigation and Perception.
+      text: My research focuses on robotics and I’m particularly interested in Navigation and Perception.
       count: 10
       filters:
         folders:

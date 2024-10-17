@@ -187,4 +187,4 @@ work:
 
 ## About Me
 
-I’m a PhD student at the University of Maryland(UMD), College Park. I’m working in the [GAMMA lab](https://gamma.umd.edu/) and advised by [Dr. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha). My focusing area is robotics and I’m interested in Navigation and Perception.
+I am a Ph.D. student at the University of Maryland, College Park, working in the [GAMMA lab](https://gamma.umd.edu/) under the guidance of [Dr. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha). My research focuses on robotics, particularly in navigation and perception.
