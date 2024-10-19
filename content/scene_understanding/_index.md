@@ -15,4 +15,4 @@ banner:
 ---
 <!-- ![Research Cover Image](/media/indoornavigation.jpg) -->
 
-Scene understanding analysis the environment from robots' observations and extract important information for down-stream tasks.
+Scene understanding analyzes the environment from the robot’s observations and extracts important information for downstream tasks.

@@ -15,4 +15,4 @@ banner:
 ---
 <!-- ![Research Cover Image](/media/indoornavigation.jpg) -->
 
-Place recognition localize the robot in a global map given current observations. This task includes place recognition in indoor and outdoor scenarios with various sensors.
+Place recognition localizes robots on a global map using current observations. This task includes place recognition in both indoor and outdoor scenarios with various sensors.
