@@ -100,7 +100,7 @@ work:
     date_end: 2021-06-01
     summary: |1-
       - Lead the design and development of navigation systems for wheeled robots;
-      - mplemented multiple navigation-related algorithms, including: reinforcement-learning-based collision avoidance, Lidar-based SLAM algorithms, MPC-based control algorithms.
+      - Implemented multiple navigation-related algorithms, including reinforcement learning-based collision avoidance, LiDAR-based SLAM algorithms, and MPC-based control algorithms.
   # - position: Applied Scientist Intern
   #   company_name: Amazon Lab 126
   #   company_url: https://amazon.jobs/en/teams/lab126/
