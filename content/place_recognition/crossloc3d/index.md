@@ -1,5 +1,5 @@
 ---
-title: 'Terrapn: Unstructured terrain navigation using online self-supervised learning'
+title: 'CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
