@@ -48,9 +48,10 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
+        - I gave a lecture in UC riverside in Jan 2025
+        - I gave a lecture in the North Carolina State University in Nov 2024.
         - We have 3 papers accepted by IROS 2024.
-        - I'm going to give a presentation in the North Carolina State University in Nov 2024.
-        
+
   - block: collection
     id: preprints
     content:
