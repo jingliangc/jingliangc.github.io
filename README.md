@@ -19,6 +19,15 @@ sudo dpkg -i hugo_extended_0.135.0_linux-amd64.deb
 ```
 
 # Debug in local:
-To show the website in local, we need to set content/.../xx.md: draft = false/true multiple times with restarting the "hugo server/hugo server -D"
+To show the website in local, we need to set content/.../xx.md: 
+```
+draft = false  # or true 
+```
+multiple times with restarting the "hugo server" or "hugo server -D"
+
+Then open "http://localhost:1313/"
 
 ### for the released version, set "content/.../xx.md: draft = false"
+
+
+# other debugs:

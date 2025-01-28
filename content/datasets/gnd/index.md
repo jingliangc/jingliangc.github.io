@@ -10,11 +10,11 @@ authors:
 - Ivan Penskiy
 - Dinesh Manocha
 - Xuesu Xiao
-date: "2025-01-27T00:00:00Z"
+date: "2024-01-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-02-01T00:00:00Z"
+publishDate: "2024-01-27T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -41,6 +41,7 @@ links:
   url: https://robotixx.github.io/GND/
   icon_pack: fab
   icon: twitter
+  
 url_pdf: https://arxiv.org/pdf/2409.14262
 url_code: 'https://github.com/jingGM/GND'
 url_dataset: 'https://dataverse.orc.gmu.edu/dataset.xhtml?persistentId=doi:10.13021/orc2020/JUIW5F'

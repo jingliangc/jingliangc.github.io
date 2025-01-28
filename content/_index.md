@@ -31,6 +31,7 @@ sections:
           size: cover
           position: center
           parallax: true
+
   - block: collection
     id: project
     content:
@@ -42,14 +43,15 @@ sections:
     design:
       view: article-grid
       columns: 3
+      
   - block: markdown
     id: news
     content:
+      count: 10
       title: 'Recent News'
       subtitle: ''
-      text: 
-      |-
-        - We have three papers accepted by ICRA 2025: BehAV, VLM-Social-Nav and GND.
+      text: |- 
+        - We have three papers accepted by ICRA 2025: BehAV, VLM-Social-Nav and GND.[BehAV](https://www.google.com)
         - I gave a lecture in UC riverside in Jan 2025.
         - I gave a lecture in the North Carolina State University in Nov 2024.
         - We have 3 papers accepted by IROS 2024.

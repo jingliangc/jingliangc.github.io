@@ -43,7 +43,8 @@ abstract: COVID-19 pandemic has become a global challenge faced by people all ov
 tags:
   - COVID 19
   - Social Navigation
-  - outdoor navigation
+  - Outdoor Navigation
+  - Scene Understanding
 
 # Display this page in the Featured widget?
 featured: true

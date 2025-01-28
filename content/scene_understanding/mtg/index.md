@@ -1,14 +1,16 @@
 ---
-title: 'Terrapn: Unstructured terrain navigation using online self-supervised learning'
+title: 'Mtg: Mapless trajectory generator with traversability coverage for outdoor navigation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Adarsh Jagan Sathyamoorthy
-  - Kasun Weerakoon
-  - Tianrui Guan
   - admin
+  - Peng Gao
+  - Xuesu Xiao
+  - Adarsh Jagan Sathyamoorthy
+  - Mohamed Elnoor
+  - Ming C. Lin
   - Dinesh Manocha
 
 # Author notes (optional)
@@ -18,11 +20,11 @@ authors:
 #   - Adarsh Jagan Sathyamoorthy
 #   - Dinesh Manocha
 
-date: '2022-10-23T00:00:00Z'
+date: '2024-05-13T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-10-23T00:00:00Z'
+publishDate: '2024-05-13T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -30,18 +32,22 @@ publishDate: '2022-10-23T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
-publication_short: In *IROS 2022*
+publication: 2024 IEEE International Conference on Robotics and Automation (ICRA)
+publication_short: In *ICRA 2024*
 
-abstract: We present TerraPN, a novel method to learn the surface characteristics (texture, bumpiness, deformability, etc.) of complex outdoor terrains for autonomous robot navigation. Our method predicts navigability cost maps for different surfaces using patches of RGB images, odometry, and IMU data. Our method dynamically varies the resolution of the output cost map based on the scene to improve its computational efficiency. We present a novel extension to the Dynamic-Window Approach (DWA-O) to account for a surface's navigability cost while computing robot trajectories. DWA-O also dynamically modulates the robot's acceleration limits based on the variation in the robot-terrain interactions. In terms of perception, our method learns to predict navigability costs in ∼20 minutes for five different surfaces, compared to 3-4 hours for previous scene segmentation methods and leads to a decrease in inference time. In terms of navigation, our method outperforms previous works in terms of vibration costs and generates robot velocities suitable for different surfaces.
+abstract: We present a novel learning-based trajectory generation algorithm for outdoor robot navigation. Our goal is to compute collision-free paths that also satisfy the environment-specific traversability constraints. Our approach is designed for global planning using limited onboard robot perception in mapless environments, while ensuring comprehensive coverage of all traversable directions. Our formulation uses a Conditional Variational Autoencoder (CVAE) generative model that is enhanced with traversability constraints and an optimization formulation used for the coverage. We highlight the benefits of our approach over state-of-the-art trajectory generation approaches and demonstrate its performance in challenging and large outdoor environments, including around buildings, across intersections, along trails, and off-road terrain, using a Clearpath Husky and a Boston Dynamics Spot robot. In practice, our approach results in a 6% improvement in coverage of traversable areas and an 89% reduction in trajectory portions residing in non-traversable regions.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Traversability Analasis
+  - Generative Models
+  - CVAE
+  - Traversability Analysis
+  - Tragectory Generation
   - Outdoor Navigation
-  - PCA
+  - Scene Understanding
+  - Global Navigation
 
 # Display this page in the Featured widget?
 featured: true
@@ -109,14 +115,14 @@ featured: true
 #  url: /talk/page/#watch
 #  icon_pack: fas
 #  icon: video
-url_pdf: 'https://arxiv.org/pdf/2202.12873.pdf'
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2309.08214'
+url_code: 'https://github.com/jingGM/mtg.git'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://youtu.be/M1dTbK3P3AY'
+url_video: 'https://youtu.be/3eJ2soAzXnU?si=eLgc68aRX3HMxTr9'
 
 # links:
 # - name: Website
