@@ -49,7 +49,7 @@ sections:
       subtitle: ''
       text: 
       |-
-        - We have three paper accepted by ICRA 2025: [BehAV](https://jingliangc.github.io/language_model/social_vlm/), [VLM-Social-Nav](https://jingliangc.github.io/language_model/social_vlm/) and [GND](https://jingliangc.github.io/datasets/gnd/) 
+        - We have three papers accepted by ICRA 2025: [BehAV](https://jingliangc.github.io/language_model/social_vlm/), [VLM-Social-Nav](https://jingliangc.github.io/language_model/social_vlm/) and [GND](https://jingliangc.github.io/datasets/gnd/) 
         - I gave a lecture in UC riverside in Jan 2025
         - I gave a lecture in the North Carolina State University in Nov 2024.
         - We have 3 papers accepted by IROS 2024.
