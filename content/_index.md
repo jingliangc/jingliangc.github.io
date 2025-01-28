@@ -49,8 +49,8 @@ sections:
       subtitle: ''
       text: 
       |-
-        - We have three papers accepted by ICRA 2025: BehAV, VLM-Social-Nav and GND
-        - I gave a lecture in UC riverside in Jan 2025
+        - We have three papers accepted by ICRA 2025: BehAV, VLM-Social-Nav and GND.
+        - I gave a lecture in UC riverside in Jan 2025.
         - I gave a lecture in the North Carolina State University in Nov 2024.
         - We have 3 papers accepted by IROS 2024.
 
