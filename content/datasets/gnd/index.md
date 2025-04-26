@@ -1,9 +1,9 @@
 ---
 title: "GND: Global Navigation Dataset with Multi-Modal Perception and Multi-Category Traversability in Outdoor Campus Environments"
 authors:
-- admin
-- Dibyendu Das
-- Daeun Song
+- admin_eq
+- Dibyendu Das*
+- Daeun Song*
 - Md Nahid Hasan Shuvo
 - Mohammad Durrani
 - Karthik Taranath
