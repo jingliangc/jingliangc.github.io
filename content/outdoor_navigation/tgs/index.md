@@ -2,7 +2,7 @@
 title: "VL-TGS: Trajectory Generation and Selection using Vision Language Models in Mapless Outdoor Environments"
 authors:
 - Daeun Song*
-- admin
+- admin_eq
 - Xuesu Xiao
 - Dinesh Manocha
 
