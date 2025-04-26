@@ -1,6 +1,6 @@
 ---
 
-title: 'I gave a lecture in the North Carolina State University.'
+title: 'I gave an invited talk in the North Carolina State University.'
 date: '2024-11-22T00:00:00Z'
 external_link: 
 tags:
