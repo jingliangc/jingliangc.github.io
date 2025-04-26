@@ -44,7 +44,7 @@ sections:
       view: article-grid
       columns: 3
       
-  - block: features
+  - block: tablets
     id: news
     content:
       count: 10

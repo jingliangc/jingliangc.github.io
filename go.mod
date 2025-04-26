@@ -7,4 +7,4 @@ require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20241012174104-661cadc17327
 )
 
-require github.com/jingliangc/Hugo-blocks v0.0.0-20250426051059-29fff59b776c // indirect
+require github.com/jingliangc/Hugo-blocks v0.0.0-20250426055736-e3499740a324 // indirect
