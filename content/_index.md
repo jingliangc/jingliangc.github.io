@@ -44,24 +44,23 @@ sections:
       view: article-grid
       columns: 3
       
-  - block: markdown
+  - block: tablets
     id: news
     content:
       count: 10
       title: 'Recent News'
       subtitle: ''
-      text: |- 
-        - We have three papers accepted by ICRA 2025: BehAV, VLM-Social-Nav and GND.
-        - I gave a lecture in UC riverside in Jan 2025.
-        - I gave a lecture in the North Carolina State University in Nov 2024.
-        - We have 3 papers accepted by IROS 2024.
-
+      text: |-
+        - **[Mar 2025]** We have three papers accepted by ICRA 2025: BehAV, VLM-Social-Nav and GND.
+        - **[Jan 2025]** I gave a lecture in UC riverside.
+        - **[Nov 2024]** I gave a lecture in the North Carolina State University.
+        - **[Jun 2024]** We have 3 papers accepted by IROS 2024.
+        
   - block: collection
     id: preprints
     content:
       count: 10
       title: Papers Under Submission
-      text: ""
       filters:
         folders:
           - indoor_navigation
@@ -69,12 +68,13 @@ sections:
           - place_recognition
           - scene_understanding
           - datasets
-          - language_model
+          - social_navigation
         exclude_future: false
         exclude_featured: true
         sort_by: 'Date'
     design:
-      view: citation
+      view: preview
+      columns: 1
 
   - block: collection
     id: papers
@@ -89,11 +89,12 @@ sections:
           - place_recognition
           - scene_understanding
           - datasets
-          - language_model
+          - social_navigation
         exclude_future: false
         # exclude_featured: false
         featured_only: true
         sort_by: 'Date'
     design:
-      view: citation
+      view: preview  # citation
+      columns: 1
 ---

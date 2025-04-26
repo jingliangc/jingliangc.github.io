@@ -1,5 +1,5 @@
 ---
-title: 'Language-Model-Based Approaches'
+title: 'Social Navigation'
 date: 2024-10-12
 type: landing
 
@@ -11,6 +11,6 @@ sections:
     content:
       count: 100
       folders:
-        - language_model
+        - social_navigation
       exclude_featured: false
 ---
