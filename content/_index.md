@@ -73,7 +73,7 @@ sections:
         exclude_featured: true
         sort_by: 'Date'
     design:
-      view: preview
+      view: citation
 
   - block: collection
     id: papers
@@ -94,5 +94,5 @@ sections:
         featured_only: true
         sort_by: 'Date'
     design:
-      view: preview  # citation
+      view: citation  # preview
 ---
