@@ -10,20 +10,20 @@ authors:
 - Arnie Sen
 - Dinesh Manocha
 
-date: "2025-04-10T00:00:00Z"
+date: "2024-10-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-04-10T00:00:00Z"
+publishDate: "2024-10-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["journal"]
+publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Robotics and Automation Letters 2025
-publication_short: In *RA-L 2025*
+publication: ""
+publication_short: ""
 
 abstract: "We present a new algorithm, Cross-Source-Context Place Recognition (CSCPR), for RGB-D indoor place recognition that integrates global retrieval and reranking into a single end-to-end model. Unlike prior approaches that primarily focus on the RGB domain, CSCPR is designed to handle the RGB-D data. We extend the Context-of-Clusters (CoCs) for handling noisy colorized point clouds and introduce two novel modules for reranking: the Self-Context Cluster (SCC) and Cross Source Context Cluster (CSCC), which enhance feature representation and match query-database pairs based on local features, respectively. We also present two new datasets, ScanNetIPR and ARKitIPR. Our experiments demonstrate that CSCPR significantly outperforms state-of-the-art models on these datasets by at least 36.5% in Recall@1 at ScanNet-PR dataset and 44% in new datasets. Code and datasets will be released."
 
@@ -35,7 +35,7 @@ tags:
 - RGB-D Place Recognition
 - Indoor Place Recognition
 
-featured: true
+featured: false
 
 # links:
 # - name: Website

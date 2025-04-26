@@ -1,5 +1,5 @@
 ---
-title: "Social Navigation"
+title: "Language-Model-Based Approaches"
 cms_exclude: false
 
 # View.
@@ -14,4 +14,4 @@ banner:
   image: ''
 ---
 <!-- ![Research Cover Image](/media/indoornavigation.jpg) -->
-Social navigation approaches include indoor and outdoor social interactions with human and traffic.
+Language-model-based approaches include VLM-based indoor-outdoor navigation, VLM-based social planning, VLM-based manipulation tasks.
