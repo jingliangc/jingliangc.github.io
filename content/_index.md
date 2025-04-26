@@ -44,7 +44,7 @@ sections:
       view: article-grid
       columns: 3
       
-  - block: tablets
+  - block: features
     id: news
     content:
       count: 10
@@ -74,7 +74,6 @@ sections:
         sort_by: 'Date'
     design:
       view: preview
-      columns: 1
 
   - block: collection
     id: papers
@@ -96,5 +95,4 @@ sections:
         sort_by: 'Date'
     design:
       view: preview  # citation
-      columns: 1
 ---
