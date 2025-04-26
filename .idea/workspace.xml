@@ -5,6 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e95c106-5277-4b34-8ac3-befe9cec4c4e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/content/news/icra2025/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/news/iros2024/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/news/lecture_NCSU/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/news/lecture_UC_Riverside/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/partials/views/short_list.end.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/partials/views/short_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/partials/views/short_list.start.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,16 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jing/Documents/website/jingliangc.github.io&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/jing/Documents/website/jingliangc.github.io/content/news"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/news" />
+      <recent name="$PROJECT_DIR$/layouts/partials/views" />
       <recent name="$PROJECT_DIR$/layouts/partials/views/community" />
       <recent name="$PROJECT_DIR$/content/social_navigation" />
       <recent name="$PROJECT_DIR$/content/authors/admin_eq" />

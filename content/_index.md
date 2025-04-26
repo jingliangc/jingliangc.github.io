@@ -32,7 +32,7 @@ sections:
           position: center
           parallax: true
 
-  - block: grids
+  - block: collection
     id: project
     content:
       title: Projects
@@ -43,19 +43,37 @@ sections:
     design:
       view: article-grid
       columns: 3
-      
-  - block: tablets
-    id: news
+  
+  - block: collection
+    id: recent-news
     content:
       count: 10
       title: 'Recent News'
       subtitle: ''
-      text: |-
-        - **[Mar 2025]** We have three papers accepted by ICRA 2025: BehAV, VLM-Social-Nav and GND.
-        - **[Jan 2025]** I gave a lecture in UC riverside.
-        - **[Nov 2024]** I gave a lecture in the North Carolina State University.
-        - **[Jun 2024]** We have 3 papers accepted by IROS 2024.
-        
+      filters:
+        folders:
+          - news
+#      text: |-
+#        - **[Mar 2025]** We have three papers accepted by ICRA 2025: BehAV, VLM-Social-Nav and GND.
+#        - **[Jan 2025]** I gave a lecture in UC riverside.
+#        - **[Nov 2024]** I gave a lecture in the North Carolina State University.
+#        - **[Jun 2024]** We have 3 papers accepted by IROS 2024.
+    design:
+      columns: '1'
+      view: short_list
+      
+#  - block: tablets
+#    id: news
+#    content:
+#      count: 10
+#      title: 'Recent News'
+#      subtitle: ''
+#      text: |-
+#        - **[Mar 2025]** We have three papers accepted by ICRA 2025: BehAV, VLM-Social-Nav and GND.
+#        - **[Jan 2025]** I gave a lecture in UC riverside.
+#        - **[Nov 2024]** I gave a lecture in the North Carolina State University.
+#        - **[Jun 2024]** We have 3 papers accepted by IROS 2024.
+#        
   - block: collection
     id: preprints
     content:
