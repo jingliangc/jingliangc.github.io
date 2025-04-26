@@ -32,7 +32,7 @@ sections:
           position: center
           parallax: true
 
-  - block: collection
+  - block: grids
     id: project
     content:
       title: Projects
