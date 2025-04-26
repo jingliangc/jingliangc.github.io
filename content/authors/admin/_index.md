@@ -47,10 +47,9 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
   - Robotics
   - Navigation
-  - Perception
+  - Scene Understanding
 
 education:
   - area: PhD Robotics
