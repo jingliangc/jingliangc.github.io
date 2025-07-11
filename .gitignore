@@ -11,3 +11,6 @@ hugo_stats.json
 # IDE specific
 .idea/
 .vscode/
+
+.DS_Store
+*/.DS_Store

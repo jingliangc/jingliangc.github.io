@@ -9,20 +9,20 @@ authors:
 - Rajasimman Madhivanan
 - Dinesh Manocha
 
-date: "2024-10-10T00:00:00Z"
+date: "2025-06-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-10T00:00:00Z"
+publishDate: "2025-06-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+publication_short: In *IROS 2025*
 
 abstract: "We introduce ET-Former, a novel end-to-end algorithm for semantic scene completion using a single monocular camera. Our approach generates a semantic occupancy map from single RGB observation while simultaneously providing uncertainty estimates for semantic predictions. By designing a triplane-based deformable attention mechanism, our approach improves geometric understanding of the scene than other SOTA approaches and reduces noise in semantic predictions. Additionally, through the use of a Conditional Variational AutoEncoder (CVAE), we estimate the uncertainties of these predictions. The generated semantic and uncertainty maps will aid in the formulation of navigation strategies that facilitate safe and permissible decision-making in the future. Evaluated on the Semantic-KITTI dataset, ET-Former achieves the highest IoU and mIoU, surpassing other methods by 15.16% in IoU and 24.24% in mIoU, while reducing GPU memory usage of existing methods by 25%-50.5%."
 
@@ -43,7 +43,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 url_pdf: "https://arxiv.org/pdf/2410.11019"
-url_code: ''
+url_code: 'https://github.com/jingGM/ET-Former.git'
 url_dataset: ''
 url_poster: ''
 url_project: ''

@@ -11,20 +11,20 @@ authors:
 - Dinesh Manocha
 - Xuesu Xiao
 
-date: "2025-03-27T00:00:00Z"
+date: "2025-06-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-27T00:00:00Z"
+publishDate: "2025-06-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['under submission']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: 
+publication: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+publication_short: In *IROS 2025*
 
 abstract: Most existing social robot navigation techniques either leverage hand-crafted rules or human demonstrations to connect robot perception to socially compliant actions. However, there remains a significant gap in effectively translating perception into socially compliant actions, much like how human reasoning naturally occurs in dynamic environments. Considering the recent success of Vision-Language Models (VLMs), we propose using language to bridge the gap in human-like reasoning between perception and socially aware robot actions. We create a vision-language dataset, Social robot Navigation via Explainable Interactions (SNEI), featuring 40K human-annotated Visual Question Answers (VQAs) based on 2K human-robot social interactions in unstructured, crowded public spaces, spanning perception, prediction, chainof-thought reasoning, action, and explanation. We fine-tune a VLM, Social-LLaVA, using SNEI to demonstrate the practical application of our dataset. Social-LLaVA outperforms state-ofthe-art models like GPT-4V and Gemini, based on the average of fifteen different human-judge scores across 50 VQAs. Deployed onboard a mobile robot, Social-LLaVA enables human-like reasoning, marking a promising step toward socially compliant robot navigation in dynamic public spaces through language reasoning.
 
