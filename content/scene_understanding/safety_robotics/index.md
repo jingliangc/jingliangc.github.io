@@ -39,7 +39,7 @@ tags:
 - Language Models
 - Manipulators
 
-featured: false
+featured: true
 
 # links:
 # - name: Website

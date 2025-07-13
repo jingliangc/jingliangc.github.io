@@ -38,7 +38,7 @@ tags:
 - Language Models
 - Outdoor Navigation
 
-featured: false
+featured: true
 
 # links:
 # - name: Website

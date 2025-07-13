@@ -35,7 +35,7 @@ tags:
 - Scene Understanding
 - Autonomous Driving
 
-featured: false
+featured: true
 
 # links:
 # - name: Website
