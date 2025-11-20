@@ -20,21 +20,21 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: the University of Maryland, College Park
-    url: https://www.cs.umd.edu/
+  - name: Stanford Robotic Center - Stanford University
+    url: https://src.stanford.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:jingl@umd.com'
+    url: 'mailto:jinglms@stanford.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/jingliangcgm
+    url: https://x.com/Jing53582
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
   - icon: brands/github
@@ -46,32 +46,32 @@ profiles:
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
-interests:
-  - Robotics
-  - Navigation
-  - Scene Understanding
+# interests:
+#   - Robotics
+#   - Navigation
+#   - Scene Understanding
 
-education:
-  - area: PhD Robotics
-    institution: the University of Maryland, College Park
-    date_start: 2020-08-21
-    date_end: ''
-    # summary: |
-    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
-  - area: MEng Robotics
-    institution: the University of Maryland, College Park
-    date_start: 2018-08-21
-    date_end: 2020-05-21
-    # summary: |
-    #   GPA: 3.8/4.0
+# education:
+#   - area: PhD Robotics
+#     institution: the University of Maryland, College Park
+#     date_start: 2020-08-21
+#     date_end: ''
+#     # summary: |
+#     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+#     # button:
+#     #   text: 'Read Thesis'
+#     #   url: 'https://example.com'
+#   - area: MEng Robotics
+#     institution: the University of Maryland, College Park
+#     date_start: 2018-08-21
+#     date_end: 2020-05-21
+#     # summary: |
+#     #   GPA: 3.8/4.0
 
-    #   Courses included:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#     #   Courses included:
+#     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Applied Scientist Intern
     company_name: Amazon Lab 126
@@ -186,4 +186,6 @@ work:
 
 ## About Me
 
-I am a Ph.D. student at the University of Maryland, College Park, working in the [GAMMA lab](https://gamma.umd.edu/) under the guidance of [Dr. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha). My research focuses on robotics, particularly in navigation and perception.
+I am currently a postdoctoral scholar in the Department of Computer Science at Stanford University, affiliated with the [Stanford Robotics Center](https://src.stanford.edu/) and the [Stanford Center on Longevity](https://longevity.stanford.edu/). I am fortunate to be supported by the [New Map of Life Fellowship program](https://longevity.stanford.edu/new-map-of-life-fellows-program/). I work with Steve Cousins and Oussama Khatib on research focused on companion robots, with an emphasis on robot navigation, scene understanding, and human behavior perception and recognition.
+
+Before joining Stanford, I earned my Ph.D. in Computer Science from the University of Maryland, College Park, where I worked in the [GAMMA Lab](https://gamma.umd.edu/) advised by [Dr. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha). My doctoral research focused on robot navigation and perception, spanning both indoor and outdoor environments.
