@@ -57,24 +57,24 @@ sections:
       columns: '1'
       view: short_list
       
-  - block: collection
-    id: preprints
-    content:
-      count: 10
-      title: Papers Under Submission
-      filters:
-        folders:
-          - indoor_navigation
-          - outdoor_navigation
-          - place_recognition
-          - scene_understanding
-          - datasets
-          - social_navigation
-        exclude_future: false
-        exclude_featured: true
-        sort_by: 'Date'
-    design:
-      view: preview
+  # - block: collection
+  #   id: preprints
+  #   content:
+  #     count: 10
+  #     title: Papers Under Submission
+  #     filters:
+  #       folders:
+  #         - indoor_navigation
+  #         - outdoor_navigation
+  #         - place_recognition
+  #         - scene_understanding
+  #         - datasets
+  #         - social_navigation
+  #       exclude_future: false
+  #       exclude_featured: true
+  #       sort_by: 'Date'
+  #   design:
+  #     view: preview
 
   - block: collection
     id: papers
