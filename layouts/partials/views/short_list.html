@@ -13,6 +13,11 @@
 <li>
     <strong>[{{ $item.Date.Year}}.{{ printf "%02d" $item.Date.Month }}]</strong>
     {{ $item.Title | markdownify }}
+    {{ with $link }}
+      <a href="{{ . }}" {{ $target | safeHTMLAttr }} aria-label="Website">
+        {{ partial "functions/get_icon" (dict "name" "globe-alt" "attributes" "style=\"height: 1em\" class='inline-block'") }}
+      </a>
+    {{ end }}
     {{ if $has_attachments }}
       {{ partial "page_links" (dict "page" $item "is_list" 1) }}
     {{ end }}

@@ -1,7 +1,7 @@
 ---
 title: Social Navigation
 date: 2024-10-12
-external_link: https://jingliangc.github.io/social_navigation/
+external_link: "https://jingliangc.github.io/social_navigation/"
 tags:
   - Projects
 ---

@@ -11,23 +11,23 @@
 {{ $resource := partial "functions/get_featured_image.html" $item }}
 {{ $anchor := $item.Params.image.focal_point | default "Center" }}
 
-<a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="mb-1">
+<div class="mb-1">
   <div class="md:flex">
 
-    <div class="p-1 w-28">
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="block p-1 w-28">
       {{ with $resource }}
       {{ $image := .Fill (printf "655x655 %s" $anchor) }}
       {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
       <img class="object-cover hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}" alt="{{ $item.Title | plainify }}">
       {{end}}
-    </div>
+    </a>
 
     <div class="p-1">
       <a class="article-metadata li-cite-author">
       {{ partial "page_metadata_authors" $item }}.
       </a>
 
-      <a href="{{ $item.RelPermalink }}" class="underline">{{ $item.Title }} </a>
+      <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="underline">{{ $item.Title }} </a>
       {{- $item.Date.Format "2006" -}}.
 
       {{ if $item.Params.publication_short }}
@@ -44,5 +44,5 @@
     </div>
 
   </div>
-</a>
+</div>
 
