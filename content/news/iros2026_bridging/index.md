@@ -1,7 +1,7 @@
 ---
 title: 'We are hosting the workshop, Bridging Perspectives in Navigation, in IROS 2026.'
 date: '2026-09-29T00:00:00Z'
-external_link: 
+external_link: "https://bridging-navigation.github.io/website/"
 tags:
   - IROS 2026
 
@@ -12,7 +12,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://bridging-navigation.github.io/website/'
+url_source: ''
 
 ---
 <!-- 

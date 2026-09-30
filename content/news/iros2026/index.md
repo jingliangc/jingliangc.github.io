@@ -1,7 +1,7 @@
 ---
 title: 'We are hosting the workshop, 5th Workshop on Social Robot Navigation workshop, in IROS 2026.'
 date: '2026-09-29T00:00:00Z'
-external_link: 
+external_link: "https://socialnav2026.pages.dev"
 tags:
   - IROS 2026
   
@@ -12,7 +12,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://socialnav2026.pages.dev'
+url_source: ''
 
 ---
 <!-- 

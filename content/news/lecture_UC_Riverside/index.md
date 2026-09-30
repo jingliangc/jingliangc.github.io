@@ -1,7 +1,7 @@
 ---
 title: 'I gave an invited talk in UC riverside.'
 date: '2025-01-17T00:00:00Z'
-external_link: https://youtu.be/zvX5pwydGK0
+external_link: "https://youtu.be/zvX5pwydGK0"
 tags:
   - Talk
   - UC Riverside
