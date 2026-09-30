@@ -47,7 +47,7 @@ sections:
   - block: collection
     id: recent-news
     content:
-      count: 10
+      count: 100
       title: 'Recent News'
       subtitle: ''
       filters:
