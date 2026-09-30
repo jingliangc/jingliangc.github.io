@@ -1,5 +1,5 @@
 ---
-title: 'We are hosting "[Bridging Perspectives in Navigation](https://bridging-navigation.github.io/website/)" in IROS 2026.'
+title: 'We are hosting the workshop, [Bridging Perspectives in Navigation](https://bridging-navigation.github.io/website/), in IROS 2026.'
 date: '2026-09-29T00:00:00Z'
 external_link: 
 tags:

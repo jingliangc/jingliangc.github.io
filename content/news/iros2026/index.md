@@ -1,5 +1,5 @@
 ---
-title: 'We are hosting the "[5th Workshop on Social Robot Navigation workshop](https://socialnav2026.pages.dev)" in IROS 2026.'
+title: 'We are hosting the workshop, [5th Workshop on Social Robot Navigation workshop](https://socialnav2026.pages.dev), in IROS 2026.'
 date: '2026-09-29T00:00:00Z'
 external_link: 
 tags:
